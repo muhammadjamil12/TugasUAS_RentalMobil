@@ -1,4 +1,4 @@
-# Aplikasi Rental Mobil Menggunakan Konsep PHP MVC &amp; MySQL
+# Aplikasi Rental Mobil Menggunakan framework codeigniter 3
 ### Fiturnya apa saja sih?
 Untuk fiturnya masih sangas sederhana, contohnya sebagai berikut
 1. **Modul Master Mobil**
